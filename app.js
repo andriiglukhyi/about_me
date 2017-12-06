@@ -1,6 +1,6 @@
 'use strict';
 
-console.log('working ?????');
+
 var question1= prompt('Hello jobseeker I are have a couple question for you! You should answer Yes or No. Ok? ');
 console.log('1st question', question1);
 

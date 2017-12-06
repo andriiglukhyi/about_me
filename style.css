@@ -4,7 +4,7 @@ header {
   border: 25px solid yellow;
   padding-top: 50px;
   padding-right: 30px;
-  padding-bottom: 50px;
+  padding-bottom: 5px;
   padding-left: 80px;
 }
 main {
@@ -19,4 +19,14 @@ footer{
   background: green;
   font-size: 125%;
 
+}
+.navig {
+
+  padding-right: 30px;
+  padding-left: 80px;
+  position: relative;
+
+}
+main p {
+  position:sticky;
 }
